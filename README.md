@@ -1,7 +1,7 @@
 # Query 2
 ## Aggregation
 
-These queries were related to Monthly data and I used Extratct Function to pull out monthly data,
+These queries were related to monthly data and I used Extratct function to pull out monthly data,
 
 AS follows :-
 
